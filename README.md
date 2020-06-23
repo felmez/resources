@@ -9,8 +9,7 @@
   * https://medium.com/@ayazalam922/the-right-way-to-start-learning-software-development-b10504a16b74
   * https://spin.atomicobject.com/2018/08/04/learn-software-development/
   * https://tomharrisonjr.com/10-things-all-software-engineers-should-know-ac3d6fdd2565
-  * https://code.likeagirl.io/
-  *20-of-the-best-free-resources-to-learn-how-to-code-f23b9ba695f9
+  * https://code.likeagirl.io/20-of-the-best-free-resources-to-learn-how-to-code-f23b9ba695f9
   
 # learning coding websites / platforms
 
