@@ -21,6 +21,7 @@
   * https://www.w3schools.com/
   * https://css-tricks.com/
   * https://ocw.mit.edu/index.htm
+  * https://stackoverflow.com/
 
 
 # videos / youtube channels
