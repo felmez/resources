@@ -10,6 +10,13 @@
   * https://spin.atomicobject.com/2018/08/04/learn-software-development/
   * https://tomharrisonjr.com/10-things-all-software-engineers-should-know-ac3d6fdd2565
   * https://code.likeagirl.io/20-of-the-best-free-resources-to-learn-how-to-code-f23b9ba695f9
+  * head first java http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Head_First_Java.pdf
+  * domain driven design http://188.166.46.4/get/PDF/Eric%20Evans-Domain-Driven%20Design_%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software_14.pdf
+  * code complete http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
+  * clean code https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
+  * refactoring http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf?lang=lat
+  * the pragmatic programming https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf
+  
   
 # learning coding websites / platforms
 
