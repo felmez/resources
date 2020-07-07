@@ -31,6 +31,8 @@
   * https://css-tricks.com/
   * https://ocw.mit.edu/index.htm
   * https://stackoverflow.com/
+  * https://www.internetingishard.com/
+  
 
 
 # videos / youtube channels
