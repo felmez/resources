@@ -15,10 +15,11 @@
   * code complete http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
   * clean code https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
   * refactoring http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf?lang=lat
-  * the pragmatic programming https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf
+  * the pragmatic programming https://drive.google.com/file/d/1i9kOAVngwGq3Zz9R6cDVB3ObhCObuAI0/view
   * https://en.wikipedia.org/wiki/Queueing_theory
   * https://www.geeksforgeeks.org/
   * https://github.com/getify/You-Dont-Know-JS
+  * head First Design Patterns http://ce.sharif.edu/courses/98-99/2/ce484-1/resources/root/Design%20Patterns/Eric%20Freeman,%20Elisabeth%20Freeman,%20Kathy%20Sierra,%20Bert%20Bates-Head%20First%20Design%20Patterns%20-OReilly%20(2008).pdf
   
 # learning coding websites / platforms
 
