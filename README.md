@@ -19,7 +19,8 @@
   * https://en.wikipedia.org/wiki/Queueing_theory
   * https://www.geeksforgeeks.org/
   * https://github.com/getify/You-Dont-Know-JS
-  * head First Design Patterns http://ce.sharif.edu/courses/98-99/2/ce484-1/resources/root/Design%20Patterns/Eric%20Freeman,%20Elisabeth%20Freeman,%20Kathy%20Sierra,%20Bert%20Bates-Head%20First%20Design%20Patterns%20-OReilly%20(2008).pdf
+  * head first design patterns http://ce.sharif.edu/courses/98-99/2/ce484-1/resources/root/Design%20Patterns/Eric%20Freeman,%20Elisabeth%20Freeman,%20Kathy%20Sierra,%20Bert%20Bates-Head%20First%20Design%20Patterns%20-OReilly%20(2008).pdf
+  * introduction to algorithms 3rd edition https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
   
 # learning coding websites / platforms
 
