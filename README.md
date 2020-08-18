@@ -31,7 +31,6 @@
   * https://edabit.com/
   * https://www.hackerrank.com/
   * https://leetcode.com/
-  * https://www.w3schools.com/
   * https://css-tricks.com/
   * https://ocw.mit.edu/index.htm
   * https://stackoverflow.com/
